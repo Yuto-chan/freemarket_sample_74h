@@ -1,6 +1,8 @@
 # README
 ![logo](https://user-images.githubusercontent.com/62282502/81537903-e096f600-93a8-11ea-83d6-fd819d4ec9f4.png)
 
+### Chromeのバージョンアップデートでセキュリティ強化された為、現状Basic認証が度々求められる仕様となっています。そのため、ブラウザはSafariにて閲覧ください。
+
 ### 開発環境
 
 * Ruby version
